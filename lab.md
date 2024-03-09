@@ -3,7 +3,7 @@ Title: Help! Strange behavior in my Java program
 
 Description: Hey everyone, I'm encountering some weird behavior in my Java program. I'm trying to sort an array of integers using a custom comparator, but it's not sorting correctly. Instead, it seems to be sorting only odd numbers at the beginning of the array and even numbers at the end. I've attached a screenshot of the output for reference. Any ideas on what might be causing this?
 
-Screenshot: [script.png]
+Screenshot: ![Image](script.png)
 
 ## TA Response: ##
 
@@ -17,7 +17,9 @@ Let me know how it goes!
 
 Thanks for your response. I've attached a screenshot of the code snippet where I define the comparator, as well as the output of the sorted array before and after sorting.
 
-Screenshot: [compare.png] [Before.png]
+Screenshot: 
+<br>![Image](Compare.png) 
+![Image](Before.png)
 
 ## TA Response: ##
 
